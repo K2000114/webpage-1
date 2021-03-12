@@ -1,4 +1,5 @@
-# webpage-1 <html>
+<!DOCTYPE html>
+<html>
 <head>
 <title>results.html</title>
 </head>
